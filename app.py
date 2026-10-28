@@ -14,7 +14,7 @@ from google.genai import types
 # ----------------------------------------------------------------------------
 # Configuration
 # ----------------------------------------------------------------------------
-DEFAULT_MODEL = "gemini-3.6-flash"  # change in the sidebar if Google releases a newer Flash model
+DEFAULT_MODEL = "gemini-3.8-flash"  # change in the sidebar if Google releases a newer Flash model
 WORDS_PER_MINUTE = 150  # average speaking pace for narration
 MAX_TOPIC_CHARS = 200
 TEMPERATURE = 0.4  # lower = fewer made-up details
